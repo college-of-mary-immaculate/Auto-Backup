@@ -9,5 +9,6 @@
   - Reminders
     - If you don't know the label or name of your USB, go to settings and Click check usb name and it will show you the drive and label of your USB.
 
-
-    
+# Contributors
+  - Pano, Diether
+  - Padilla, Jet    
